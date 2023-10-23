@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://pancartoto.xy2401.com/sitemap.xml
